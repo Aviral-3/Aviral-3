@@ -14,14 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 --> 
-<h1 align="center">Hi 👋, I'm Aviral Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aviral-3&label=Profile%20views&color=0e75b6&style=flat" alt="aviral-3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviral-3" alt="aviral-3" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/avira_l3" target="blank"><img src="https://img.shields.io/twitter/follow/avira_l3?logo=twitter&style=for-the-badge" alt="avira_l3" /></a> </p>
 
 - 🔭 I’m currently working on [my collage project](https://github.com/Aviral-3/Cpp-project)
 
