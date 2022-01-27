@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aviral-3&label=Profile%20views&color=0e75b6&style=flat" alt="aviral-3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviral-3" alt="aviral-3" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/avira_l3" target="blank"><img src="https://img.shields.io/twitter/follow/avira_l3?logo=twitter&style=for-the-badge" alt="avira_l3" /></a> </p>
+<h3 align="center">A passionate MERN STACK Developer from India</h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -16,7 +10,11 @@
 - 💬 I'm good at **MERN Stack**
 
 - 📫 You can reach me **aviralsrivastava994@gmail.com**
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=aviral-3&label=Profile%20views&color=0e75b6&style=flat" alt="aviral-3" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviral-3" alt="aviral-3" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/avira_l3" target="blank"><img src="https://img.shields.io/twitter/follow/avira_l3?logo=twitter&style=for-the-badge" alt="avira_l3" /></a> </p></center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avira_l3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avira_l3" height="30" width="40" /></a>
