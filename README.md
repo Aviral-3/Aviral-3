@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Srivastava</h1>
-<h3 align="center">A passionate MERN STACK Developer from India</h3>
+<h3 align="center">A passionate Android Developer from India</h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
