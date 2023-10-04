@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aviral Srivastava</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Android Projects**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Flutter Development**
 
-- 🤝 I’m looking for help with **My ML project**
+- 🤝 I’m looking for help with **CSV Extractor**
 
-- 💬 I'm good at **MERN Stack**
+- 💬 I'm good at **Flutter**
 
 - 📫 You can reach me **aviralsrivastava994@gmail.com**
 
